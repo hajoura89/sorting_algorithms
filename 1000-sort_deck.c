@@ -4,6 +4,7 @@ int _strcmp(const char *s1, const char *s2);
 char get_value(deck_node_t *card);
 void insertion_kind(deck_node_t **deck);
 void insertion_value(deck_node_t **deck);
+void sort_deck(deck_node_t **deck);
 
 /**
  * sort_deck - Sort a deck of cards from ace to king and
