@@ -50,7 +50,7 @@ void counting_sort(int *array, size_t size)
 
 
 /**
- * max - The maximum value of an array of integers
+ * _max - The maximum value of an array of integers
  * @array: The array
  * @size: The size of the array
  * Return: The maximum
